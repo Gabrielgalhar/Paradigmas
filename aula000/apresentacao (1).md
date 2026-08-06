@@ -1,4 +1,3 @@
-
 # Assembly: Mercado, Vaga e Paradigmas
 
 ## Mercado no Brasil
